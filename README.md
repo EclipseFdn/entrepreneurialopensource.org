@@ -11,7 +11,7 @@ The Entrepreneurial Open Source Podcast is where leaders and innovators who've m
 Install dependencies, build assets and start a webserver:
 
 ```bash
-npm install 
+yarn
 hugo server
 ```
 
@@ -40,7 +40,7 @@ Images, less and JavaScript files for the Eclipse Foundation look and feel.
 
 ### [EclipseFdn/hugo-solstice-theme](https://github.com/EclipseFdn/hugo-solstice-theme)
 
-Hugo theme of the Eclipse Foundation look and feel. 
+Hugo theme of the Eclipse Foundation look and feel.
 
 ## Bugs and feature requests
 
