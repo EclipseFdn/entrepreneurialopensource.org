@@ -1,5 +1,14 @@
 # entrepreneurialopensource.org
 
+
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/entrepreneurialopensource.org) on October 14, 2021.
+
+---
+
+
 The [entrepreneurialopensource.org](https://entrepreneurialopensource.org) website is generated with [Hugo](https://gohugo.io/documentation/).
 
 The Entrepreneurial Open Source Podcast is where leaders and innovators who've made an impact in the open-source community while growing a profitable business, discuss the power and practical value of open source in business and entrepreneurship.
